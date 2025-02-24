@@ -18,7 +18,7 @@
 * 📜 `cliente/planos/tipos-de-planos` : Detalhes sobre os diferentes tipos de planos oferecidos.
 * 🛒 `cliente/planos/tipos-de-planos/aquisicao` : Processo de aquisição de um plano.
 
-
+<img src="https://github.com/cadullira/test/blob/main/p%C3%A1ginas.gif" width="50%">
 
 # 🖌️ Padrões de Nomeação no Figma
 
@@ -151,7 +151,10 @@ Essa estrutura é um agrupamento (crtl + g, tecla atalho no figma para agrupar e
 | Section | `sec` |
 | Text | `txt` |
 
+# ⚠️ Links Importantes.
 
+- <a href="https://www.youtube.com/watch?v=FhBx-93DYS8" target="_blank">Apresentação Entregável da Sprint</a>
+- <a href="https://www.figma.com/design/290aCDuakXyI3m3TFTVQhm/Jifa-Odonto?node-id=2311-2&t=hxh9nWZIXvt09KXn-0" target="_blank">Projeto no Figma</a>
 
 
 
