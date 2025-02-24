@@ -154,17 +154,7 @@ Essa estrutura é um agrupamento (crtl + g, tecla atalho no figma para agrupar e
 # ⚠️ Links Importantes.
 
 - <a href="https://www.youtube.com/watch?v=FhBx-93DYS8" target="_blank">Apresentação Entregável da Sprint</a>
-- <a href="https://www.figma.com/design/290aCDuakXyI3m3TFTVQhm/Jifa-Odonto?node-id=2311-2&t=hxh9nWZIXvt09KXn-0" target="_blank">Projeto no Figma</a>
-
-
-
-
-
-
-
-
-
-
+- <a href="https://www.figma.com/design/290aCDuakXyI3m3TFTVQhm/Jifa-Odonto?node-id=2013-774&p=f&t=jkw650Q5Tx71Sz1w-0" target="_blank">Projeto no Figma</a>
 
 
 
