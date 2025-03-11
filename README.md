@@ -2,7 +2,7 @@
 
 | 🖼️ Logo | 🖌️ Processo Criativo | 🎨 Paleta de Cores | 🔤 Fonte |
 |---------|------------------|---------|-------------|
-|![logo-jifa](https://github.com/user-attachments/assets/64df38c5-316e-4b51-a8c9-9831ccba6d8c) | A logo trás um design minimalista e moderno. O ícone de um dente estilizado simboliza cuidado e saúde bucal, enquanto a tipografia transmite profissionalismo e confiança.  | 🔹 `#FFFFFF` _100%_ <br> 🔸 `#6C757D` <br>⚪ `#FFFFFF` _80%_ <br>⚫ `#717275`   | **Montserrat**, Sans-serif |
+|![logo-jifa](https://github.com/jifa-team/ep1-pi3/blob/main/logo-jifa.png) | A logo trás um design minimalista e moderno. O ícone de um dente estilizado simboliza cuidado e saúde bucal, enquanto a tipografia transmite profissionalismo e confiança.  | 🔹 `#FFFFFF` _100%_ <br> 🔸 `#6C757D` <br>⚪ `#FFFFFF` _80%_ <br>⚫ `#717275`   | **Montserrat**, Sans-serif |
 
 
 # 🌐 As Páginas (Frame) criadas
@@ -18,7 +18,7 @@
 * 📜 `cliente/planos/tipos-de-planos` : Detalhes sobre os diferentes tipos de planos oferecidos.
 * 🛒 `cliente/planos/tipos-de-planos/aquisicao` : Processo de aquisição de um plano.
 
-<img src="https://github.com/cadullira/test/blob/main/p%C3%A1ginas.gif" width="50%">
+<img src="https://github.com/jifa-team/ep1-pi3/blob/main/layout.gif" width="50%"> 
 
 # 🖌️ Padrões de Nomeação no Figma
 
@@ -128,7 +128,7 @@ Essa estrutura é um agrupamento (crtl + g, tecla atalho no figma para agrupar e
 #### #️⃣ Footer (9)     
 
 ## E agora mais visual.
-![organizacao-visual](https://github.com/cadullira/test/blob/main/organizacao-visual.svg)
+![organizacao-visual](https://github.com/jifa-team/ep1-pi3/blob/main/elemetos-agrupados.svg)
 
 ### 🔹 Glossário para Padrão de Nomeação de Elementos no Figma
 | Elemento | Nome no Figma |
